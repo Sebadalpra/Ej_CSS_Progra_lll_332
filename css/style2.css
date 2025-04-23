@@ -1,4 +1,4 @@
-/* Aplica solo si el elemento es un <span> */
+
 span.espaciado1 {
     letter-spacing: 5px;
     word-spacing: 10px;
@@ -26,3 +26,4 @@ span.espaciado3 {
     color:#00aa00;
     text-decoration:line-through;
 }
+
